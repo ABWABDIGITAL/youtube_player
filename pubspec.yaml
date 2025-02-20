@@ -1,5 +1,5 @@
 name: youtube_player
-description: "A new Flutter plugin project."
+description: "A Flutter plugin for embedding and controlling YouTube videos natively on Android and iOS."
 version: 0.0.1
 repository: https://github.com/ABWABDIGITAL/youtube_player
 homepage: https://abwabdigital.com
