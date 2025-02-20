@@ -1,7 +1,8 @@
 name: youtube_player
 description: "A new Flutter plugin project."
 version: 0.0.1
-homepage: 
+repository: https://github.com/ABWABDIGITAL/youtube_player
+homepage: https://abwabdigital.com
 
 environment:
   sdk: ^3.7.0
